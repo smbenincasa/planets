@@ -1,1 +1,3 @@
 Modified: This file details the experiments that will be done on the next mars lander.
+
+This lander will have an X-ray spectrometer.
